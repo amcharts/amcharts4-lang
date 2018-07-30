@@ -8,19 +8,9 @@ This repository contains locale (translation) files for [amCharts 4](https://www
 Use it to add new translations and make corrections to the new ones.
 
 
-### Making a correction
+### Updating and and creating trasnaltions
 
-* Clone this repo;
-* Make the changes to existing `.ts` file of the language;
-* Issue a Pull Request.
-
-
-### Adding a new translation
-
-* Clone this repo;
-* Copy the `en.ts` file to a new file following syntax `"locale_COUNTRY"`; (e.g. `"en_US"` meaning U.S. English)
-* Follow comments for details instruction in the file making the translations;
-* Issue a Pull Request.
+Plese refer to this tutorial for instructions: "[Creating translations](https://www.amcharts.com/docs/v4/tutorials/creating-translations/)"
 
 
 ### Other ways to contribute
