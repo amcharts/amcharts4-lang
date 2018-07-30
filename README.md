@@ -1,4 +1,4 @@
-## amCharts 4 locales (transaltions)
+## amCharts 4 locales (translations)
 
 This repository contains locale (translation) files for [amCharts 4](https://www.amcharts.com/v4).
 
