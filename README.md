@@ -18,7 +18,7 @@ Use it to add new translations and make corrections to the new ones.
 ### Adding a new translation
 
 * Clone this repo;
-* Copy the `en.ts` file to a new file following syntax `"country_LOCALE"`; (e.g. `"us_EN"` meaning U.S. English)
+* Copy the `en.ts` file to a new file following syntax `"locale_COUNTRY"`; (e.g. `"en_US"` meaning U.S. English)
 * Follow comments for details instruction in the file making the translations;
 * Issue a Pull Request.
 
