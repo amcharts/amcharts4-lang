@@ -10,7 +10,7 @@ Use it to add new translations and make corrections to the new ones.
 
 ### Updating and and creating trasnaltions
 
-Plese refer to this tutorial for instructions: "[Creating translations](https://www.amcharts.com/docs/v4/tutorials/creating-translations/)"
+Please refer to this tutorial for instructions: "[Creating translations](https://www.amcharts.com/docs/v4/tutorials/creating-translations/)"
 
 
 ### Other ways to contribute
