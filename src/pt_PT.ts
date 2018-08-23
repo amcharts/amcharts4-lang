@@ -1,8 +1,8 @@
 /**
  * amCharts 4 locale
  * 
- * Locale: pt_BR
- * Language: Brazilian Portuguese
+ * Locale: pt_PT
+ * Language: Portuguese
  * 
  * Follow instructions in [`amcharts4-lang` repo](https://github.com/amcharts/amcharts4-lang) to make corrections or add new translations.
  */
@@ -237,8 +237,8 @@ export default {
 	"To %1": "Para %1",
 
 	// Data loader-related.
-	"No parser available for file: %1": "Não há um interpretador para este arquivo: %1",
-	"Error parsing file: %1": "Erro analizando o arquivo: %1",
+	"No parser available for file: %1": "Nenhum interpretador está disponível para este arquivo: %1",
+	"Error parsing file: %1": "Erro ao analizar o arquivo: %1",
 	"Unable to load file: %1": "O arquivo não pôde ser carregado: %1",
 	"Invalid date": "Data inválida",
 };
