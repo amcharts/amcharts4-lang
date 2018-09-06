@@ -1,6 +1,6 @@
 /**
  * amCharts 4 locale
- * 
+ *
  * Locale: de
  * Language: German
  * Author: Igor Lückel
@@ -56,19 +56,19 @@
  */
 export default {
 	// Number formatting options.
-	// 
+	//
 	// Please check with the local standards which separator is accepted to be
 	// used for separating decimals, and which for thousands.
 	"_decimalSeparator": ",",
 	"_thousandSeparator": ".",
 
 	// Default date formats for various periods.
-	// 
+	//
 	// This should reflect official or de facto formatting universally accepted
 	// in the country translation is being made for
 	// Available format codes here:
 	// https://www.amcharts.com/docs/v4/concepts/formatters/formatting-date-time/#Format_codes
-	// 
+	//
 	// This will be used when formatting date/time for particular granularity,
 	// e.g. "_date_hour" will be shown whenever we need to show time as hours.
 	"_date_millisecond": "mm:ss SSS",
@@ -81,10 +81,10 @@ export default {
 	"_date_year": "yyyy",
 
 	// Default duration formats for various base units.
-	// 
+	//
 	// This will be used by DurationFormatter to format numeric values into
 	// duration.
-	// 
+	//
 	// Available codes here:
 	// https://www.amcharts.com/docs/v4/concepts/formatters/formatting-duration/#Available_Codes
 	"_duration_millisecond": "SSS",
@@ -97,15 +97,15 @@ export default {
 	"_duration_year": "yyyy",
 
 	// Era translations
-	"_era_ad": "AD",
-	"_era_bc": "BC",
+	"_era_ad": "v. Chr.",
+	"_era_bc": "n. Chr.",
 
 	// Day part, used in 12-hour formats, e.g. 5 P.M.
 	// Please note that these come in 3 variants:
 	// * one letter (e.g. "A")
 	// * two letters (e.g. "AM")
 	// * two letters with dots (e.g. "A.M.")
-	// 
+	//
 	// All three need to to be translated even if they are all the same. Some
 	// users might use one, some the other.
 	"A": "",
@@ -116,10 +116,10 @@ export default {
 	"P.M.": "",
 
 	// Date-related stuff.
-	// 
+	//
 	// When translating months, if there's a difference, use the form which is
 	// best for a full date, e.g. as you would use it in "2018 January 1".
-	// 
+	//
 	// Note that May is listed twice. This is because in English May is the same
 	// in both long and short forms, while in other languages it may not be the
 	// case. Translate "May" to full word, while "May(short)" to shortened
@@ -169,11 +169,11 @@ export default {
 	"Sat": "Sa.",
 
 	// Date ordinal function.
-	// 
+	//
 	// This is used when adding number ordinal when formatting days in dates.
-	// 
+	//
 	// E.g. "January 1st", "February 2nd".
-	// 
+	//
 	// The function accepts day number, and returns a string to be added to the
 	// day, like in default English translation, if we pass in 2, we will receive
 	// "nd" back.
@@ -235,12 +235,12 @@ export default {
 
 	// Export-related stuff.
 	// These prompts are used in Export menu labels.
-	// 
+	//
 	// "Export" is the top-level menu item.
-	// 
+	//
 	// "Image", "Data", "Print" as second-level indicating type of export
 	// operation.
-	// 
+	//
 	// Leave actual format untranslated, unless you absolutely know that they
 	// would convey more meaning in some other way.
 	"Export": "Export",
@@ -266,14 +266,14 @@ export default {
 	"XLSX": "",
 
 	// Scrollbar-related stuff.
-	// 
+	//
 	// Scrollbar is a control which can zoom and pan the axes on the chart.
-	// 
+	//
 	// Each scrollbar has two grips: left or right (for horizontal scrollbar) or
 	// upper and lower (for vertical one).
-	// 
+	//
 	// Prompts change in relation to whether Scrollbar is vertical or horizontal.
-	// 
+	//
 	// The final section is used to indicate the current range of selection.
 	"Use TAB to select grip buttons or left and right arrows to change selection": "TAB nutzen, um Ankerpunkte auszuwählen oder linke und rechte Pfeiltaste um die Auswahl zu ändern",
 	"Use left and right arrows to move selection": "Linke und rechte Pfeiltaste nutzen um die Auswahl zu verschieben",
