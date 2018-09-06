@@ -4,7 +4,7 @@
  * Locale: de_CH
  * Language: German
  * Country: Switzerland
- * Author: Igor Lückel
+ * Author: Simon Baumann (@chnoch)
  *
  * Follow instructions in [`amcharts4-lang` repo](https://github.com/amcharts/amcharts4-lang) to make corrections or add new translations.
  *
