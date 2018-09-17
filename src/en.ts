@@ -88,13 +88,48 @@ export default {
 	// Available codes here:
 	// https://www.amcharts.com/docs/v4/concepts/formatters/formatting-duration/#Available_Codes
 	"_duration_millisecond": "SSS",
+	"_duration_millisecond_second": "ss.SSS",
+	"_duration_millisecond_minute": "mm:ss SSS",
+	"_duration_millisecond_hour": "hh:mm:ss SSS",
+	"_duration_millisecond_day": "d'd' mm:ss SSS",
+	"_duration_millisecond_week": "d'd' mm:ss SSS",
+	"_duration_millisecond_month": "M'm' d'd' mm:ss SSS",
+	"_duration_millisecond_year": "y'y' M'm' d'd' mm:ss SSS",
+
 	"_duration_second": "ss",
+	"_duration_second_minute": "mm:ss",
+	"_duration_second_hour": "hh:mm:ss",
+	"_duration_second_day": "d'd' hh:mm:ss",
+	"_duration_second_week": "d'd' hh:mm:ss",
+	"_duration_second_month": "M'm' d'd' hh:mm:ss",
+	"_duration_second_year": "y'y' M'm' d'd' hh:mm:ss",
+
 	"_duration_minute": "mm",
-	"_duration_hour": "hh",
-	"_duration_day": "dd",
-	"_duration_week": "ww",
-	"_duration_month": "MM",
-	"_duration_year": "yyyy",
+	"_duration_minute_hour": "hh:mm",
+	"_duration_minute_day": "d'd' hh:mm",
+	"_duration_minute_week": "d'd' hh:mm",
+	"_duration_minute_month": "M'm' d'd' hh:mm",
+	"_duration_minute_year": "y'y' M'm' d'd' hh:mm",
+
+	"_duration_hour": "hh'h'",
+	"_duration_hour_day": "d'd' hh'h'",
+	"_duration_hour_week": "d'd' hh'h'",
+	"_duration_hour_month": "M'm' d'd' hh'h'",
+	"_duration_hour_year": "y'y' M'm' d'd' hh'h'",
+
+	"_duration_day": "d'd'",
+	"_duration_day_week": "d'd'",
+	"_duration_day_month": "M'm' d'd'",
+	"_duration_day_year": "y'y' M'm' d'd'",
+
+	"_duration_week": "w'w'",
+	"_duration_week_month": "w'w'",
+	"_duration_week_year": "w'w'",
+
+	"_duration_month": "MM'm'",
+	"_duration_month_year": "MM'm'",
+
+	"_duration_year": "y",
 
 	// Era translations
 	"_era_ad": "AD",
