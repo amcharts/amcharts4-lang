@@ -281,18 +281,22 @@ export default {
 	"Gauge chart": "",
 	"Radar chart": "",
 	"Sankey diagram": "",
-	"Chord diagram": "",
 	"Flow diagram": "",
+	"Chord diagram": "",
 	"TreeMap chart": "",
+	"Funnel chart": "",
 
 	// Series types.
 	// Used to name series by type for screen readers if they do not have their
 	// name set.
 	"Series": "",
 	"Candlestick Series": "",
+	"OHLC Series": "",
 	"Column Series": "",
 	"Line Series": "",
 	"Pie Slice Series": "",
+	"Funnel Series": "",
+	"Pyramid Series": "",
 	"X/Y Series": "",
 
 	// Map-related stuff.
