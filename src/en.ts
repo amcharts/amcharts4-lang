@@ -141,7 +141,7 @@ export default {
 	"_duration_week_year": "w'w'",
 
 	"_duration_month": "M'm'",
-	"_duration_month_year": "M'm'",
+	"_duration_month_year": "y'y' MM'm'",
 
 	"_duration_year": "y'y'",
 
