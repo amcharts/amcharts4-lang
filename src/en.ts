@@ -70,7 +70,7 @@ export default {
 	// Or 1024 might become "1KB" if we're formatting byte numbers.
 	// 
 	// This section defines such suffixes for all such cases.
-	"_big_number_suffix_3": "K",
+	"_big_number_suffix_3": "k",
 	"_big_number_suffix_6": "M",
 	"_big_number_suffix_9": "G",
 	"_big_number_suffix_12": "T",
